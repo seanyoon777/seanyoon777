@@ -2,7 +2,7 @@
 😎 Aspiring tech entrepreneur, Always either building something or thinking of building something!<br>📚 CS + Math @ Stanford<br>💬 Please contact me via [Email](sean777@stanford.edu) or [LinkedIn](https://www.linkedin.com/in/seanyoon777/) :)
 
 # 💻 A Little More About Me:
-```C++
+```java
 const sean = {
   pronouns: ["he", "him"], 
   languages: [C++, Python, R, Mathematica, MatLab], 
