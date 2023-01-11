@@ -1,11 +1,11 @@
 # 💫 About Me:
-😎 Aspiring tech entrepreneur, Always either building something or thinking of building something!<br>📚 Studying CS and Math @ Stanford<br>💬 Please contact me via [Email](sean777@stanford.edu) or [LinkedIn](https://www.linkedin.com/in/seanyoon777/) :)
+😎 Aspiring tech entrepreneur, Always either building something or thinking of building something!<br>📚 Studying CS and Math @ Stanford<br>💬 Please contact me via [Email](sean777@stanford.edu) or [LinkedIn](https://www.linkedin.com/in/seanyoon777/) :)<br>🦄Also check out my [website](https://www.seanyoonbio.com) and [newsletter](https://seanyoon.substack.com/)!
 
 # 💻 A Little More About Me:
 ```C++
 const sean = {
   pronouns: ["he", "him"], 
-  languages: [C++, Python, R, Mathematica, MatLab], 
+  languages: [C/C++, Python, R, Mathematica, HTML, CSS, JavaScript, MatLab], 
   ml: [Numpy, Pandas, Scikit, Scipy, Pytorch] 
   markdown: [LaTeX, Markdown], 
   interests: ["Machine Learning", "Mathematical Modeling", "Software Engineering", "Data Science"], 
