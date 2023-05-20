@@ -5,7 +5,7 @@
 ```C++
 const sean = {
   pronouns: ["he", "him"], 
-  languages: [C++, C, Python, R, Mathematica, HTML, CSS, JavaScript, MatLab], 
+  languages: [C++, C, Python, R, SwiftUI, Mathematica, HTML, CSS, JavaScript, MatLab], 
   ml: [Numpy, Pandas, Scikit, Scipy] 
   markdown: [LaTeX, Markdown], 
   interests: ["Machine Learning", "Mathematical Modeling", "Software Engineering", "Data Science"], 
