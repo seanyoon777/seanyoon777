@@ -3,7 +3,7 @@
 
 # 💻 A Little More About Me:
 ```C++
-const sean = {
+const sean {
   pronouns: ["he", "him"], 
   languages: [C++, C, Python, R, SwiftUI, Mathematica, HTML, CSS, JavaScript, MatLab], 
   ml: [Numpy, Pandas, Scikit, Scipy] 
