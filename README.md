@@ -6,8 +6,8 @@
 const sean {
   pronouns: ["he", "him"], 
   languages: [C++, C, Python, R, Assembly, Mathematica, MATLAB, SwiftUI, HTML, CSS, JavaScript], 
-  ml: [PyTorch, TensorFlow, scikit-learn], 
-  softwares: [Git, LaTeX, Markdown, SLURM, Unix], 
+  ml: [PyTorch, TensorFlow, Trax, LangChain, scikit-learn, opencv], 
+  softwares: [Git, LaTeX, Markdown, SLURM, Unix, Conda, Docker, AWS, Google Cloud], 
   interests: ["Machine Learning", "Data Science", "Mathematical Modeling", "Software Engineering"], 
   other interests: ["Cooking", "Working out", "Pen drawing", "Meeting new people!"]
 }
