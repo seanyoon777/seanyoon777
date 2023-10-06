@@ -1,13 +1,13 @@
 # 💫 About Me:
-😎 Aspiring tech entrepreneur, Always either building something or thinking of building something!<br>📚 Studying CS and Math @ Stanford<br>💬 Please contact me via [Email](sean777@stanford.edu) or [LinkedIn](https://www.linkedin.com/in/seanyoon777/) :)<br>🦄 Also check out my [website](https://www.seanyoonbio.com) and [newsletter](https://seanyoon.substack.com/)!
+😎 Aspiring tech entrepreneur, Always either building something or thinking of building something!<br>📚 Studying CS, Math, Neuroscience @ Stanford<br>💬 Please contact me via [Email](sean777@stanford.edu) or [LinkedIn](https://www.linkedin.com/in/seanyoon777/) :)<br>🦄 Also check out my [website](https://www.seanyoonbio.com) and [newsletter](https://seanyoon.substack.com/)!
 
 # 💻 A Little More About Me:
 ```C++
 const sean {
   pronouns: ["he", "him"], 
   languages: [C++, C, Python, R, Assembly, Mathematica, MATLAB, SQL, SwiftUI, HTML, CSS, JavaScript], 
-  ml: [PyTorch, TensorFlow, Trax, LangChain, scikit-learn, opencv], 
-  softwares: [Git, LaTeX, Markdown, SLURM, Unix, Conda, Docker, AWS, Google Cloud], 
+  ml: [PyTorch, TensorFlow, Trax, LangChain, Scikit-learn, Opencv, PyG, Hugging Face], 
+  miscellaneous: [Git, LaTeX, Markdown, SLURM, Unix, Bash, Docker, AWS, Google Cloud], 
   interests: ["Machine Learning", "Data Science", "Mathematical Modeling", "Software Engineering"], 
   other interests: ["Cooking", "Working out", "Pen drawing", "Meeting new people!"]
 }
