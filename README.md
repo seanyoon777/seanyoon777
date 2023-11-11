@@ -8,7 +8,7 @@ const sean {
   languages: [C++, C, Python, R, Assembly, Mathematica, MATLAB, SQL, SwiftUI, HTML, CSS, JavaScript], 
   ml: [PyTorch, TensorFlow, Trax, LangChain, Scikit-learn, Opencv, PyG, Hugging Face], 
   miscellaneous: [Git, LaTeX, Markdown, SLURM, Unix, Bash, Docker, AWS, Google Cloud], 
-  interests: ["Machine Learning", "Data Science", "Mathematical Modeling", "Software Engineering"], 
+  interests: ["Deep Learning", "ML", "Data Science", "Brain-Computer Interfaces", "Mathematical Modeling"], 
   other interests: ["Cooking", "Working out", "Pen drawing", "Meeting new people!"]
 }
 ```
