@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎 Interested in all things related to the brain -- particularly BCIs! <br>📚 Studying Neuroengineering, CS, Math @ Stanford<br>💬 Please contact me via [Email](sean777@stanford.edu) or [LinkedIn](https://www.linkedin.com/in/seanyoon777/) :)<br>🦄 Also check out my [website](https://www.seanyoonbio.com) and [newsletter](https://seanyoon.substack.com/)!
+😎 Currently building better real-time, brain-to-text pipelines. <br>📚 Studying Neuroengineering, CS, Math @ Stanford<br>💬 Please contact me via [Email](sean777@stanford.edu) or [LinkedIn](https://www.linkedin.com/in/seanyoon777/) :)<br>🦄 Also check out my [website](https://www.seanyoonbio.com) and [newsletter](https://seanyoon.substack.com/)!
 
 # 💻 A Little More About Me:
 ```C++
